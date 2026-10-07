@@ -4,8 +4,8 @@ secrets:
   - NOTIFICATION_GOTIFY
   - NOTIFICATION_GOTIFY_URL
   - NOTIFICATION_GOTIFY_TOKEN
-  - NOTIFICATION_GOTIFY_TITLE
-  - NOTIFICATION_GOTIFY_PRIORITY
+#  - NOTIFICATION_GOTIFY_TITLE
+#  - NOTIFICATION_GOTIFY_PRIORITY
 
 sites:
   - name: Homeassistant
@@ -20,8 +20,8 @@ sites:
     url: https://fin.vector.co.uz
     
     
-notifications:
-  - type: gotify
+#notifications:
+#  - type: gotify
       
 workflowSchedule:
   graphs: "0 0 * * *"
