@@ -61,7 +61,7 @@ jobs:
         env:
           GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
           # Configure the secret allowlist in .upptimerc.yml; do not edit this workflow directly.
-          SECRETS_CONTEXT: '{"NOTIFICATION_GOTIFY":${{ toJson(secrets.NOTIFICATION_GOTIFY) }},"NOTIFICATION_GOTIFY_URL":${{ toJson(secrets.NOTIFICATION_GOTIFY_URL) }},"NOTIFICATION_GOTIFY_TOKEN":${{ toJson(secrets.NOTIFICATION_GOTIFY_TOKEN) }},"NOTIFICATION_GOTIFY_TITLE":${{ toJson(secrets.NOTIFICATION_GOTIFY_TITLE) }},"NOTIFICATION_GOTIFY_PRIORITY":${{ toJson(secrets.NOTIFICATION_GOTIFY_PRIORITY) }}}'
+          SECRETS_CONTEXT: '{"NOTIFICATION_GOTIFY":${{ toJson(secrets.NOTIFICATION_GOTIFY) }},"NOTIFICATION_GOTIFY_URL":${{ toJson(secrets.NOTIFICATION_GOTIFY_URL) }},"NOTIFICATION_GOTIFY_TOKEN":${{ toJson(secrets.NOTIFICATION_GOTIFY_TOKEN) }}}'
       - name: Update summary in README
         uses: upptime/uptime-monitor@v1.44.1
         with:
