@@ -1,5 +1,5 @@
 owner: vector-co-uz # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+repo: upptime # The name of this repository
 secrets:
   - NOTIFICATION_GOTIFY
   - NOTIFICATION_GOTIFY_URL
