@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fin.vector.co.uz.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "9.36%",
-    "uptimeDay": "9.36%",
-    "uptimeWeek": "9.36%",
-    "uptimeMonth": "9.36%",
-    "uptimeYear": "9.36%",
+    "uptime": "9.72%",
+    "uptimeDay": "9.72%",
+    "uptimeWeek": "9.72%",
+    "uptimeMonth": "9.72%",
+    "uptimeYear": "9.72%",
     "time": 1065,
     "timeDay": 1065,
     "timeWeek": 1065,
     "timeMonth": 1065,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2026-10-07": 316,
+      "2026-10-07": 314,
       "2026-10-06": 316
     }
   }
