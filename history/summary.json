@@ -76,20 +76,21 @@
     "url": "https://fin.vector.co.uz",
     "icon": "https://icons.duckduckgo.com/ip3/fin.vector.co.uz.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "80.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.44%",
-    "uptimeMonth": "80.44%",
-    "uptimeYear": "80.44%",
-    "time": 1116,
-    "timeDay": 962,
-    "timeWeek": 1116,
-    "timeMonth": 1116,
-    "timeYear": 1116,
+    "status": "down",
+    "uptime": "84.64%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "84.64%",
+    "uptimeMonth": "84.64%",
+    "uptimeYear": "84.64%",
+    "time": 1350,
+    "timeDay": 2326,
+    "timeWeek": 1350,
+    "timeMonth": 1350,
+    "timeYear": 1350,
     "dailyMinutesDown": {
       "2026-10-07": 350,
-      "2026-10-06": 316
+      "2026-10-06": 316,
+      "2026-10-09": 0
     }
   }
 ]
