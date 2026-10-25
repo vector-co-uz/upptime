@@ -4,17 +4,17 @@
     "url": "https://ha.vector.co.uz",
     "icon": "https://icons.duckduckgo.com/ip3/ha.vector.co.uz.ico",
     "slug": "homeassistant",
-    "status": "down",
-    "uptime": "83.16%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "83.16%",
-    "uptimeYear": "83.16%",
-    "time": 813,
-    "timeDay": 327,
-    "timeWeek": 736,
-    "timeMonth": 813,
-    "timeYear": 813,
+    "status": "up",
+    "uptime": "82.11%",
+    "uptimeDay": "75.89%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "82.11%",
+    "uptimeYear": "82.11%",
+    "time": 814,
+    "timeDay": 503,
+    "timeWeek": 816,
+    "timeMonth": 814,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2026-10-11": 436,
       "2026-10-10": 553,
@@ -24,7 +24,7 @@
       "2026-10-17": 182,
       "2026-10-19": 277,
       "2026-10-18": 258,
-      "2026-10-25": 1
+      "2026-10-25": 347
     }
   },
   {
@@ -32,17 +32,17 @@
     "url": "https://frigate.vector.co.uz",
     "icon": "https://icons.duckduckgo.com/ip3/frigate.vector.co.uz.ico",
     "slug": "frigate",
-    "status": "down",
-    "uptime": "90.43%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "90.43%",
-    "time": 854,
-    "timeDay": 329,
-    "timeWeek": 723,
-    "timeMonth": 854,
-    "timeYear": 854,
+    "status": "up",
+    "uptime": "89.29%",
+    "uptimeDay": "75.91%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "89.29%",
+    "uptimeYear": "89.29%",
+    "time": 852,
+    "timeDay": 481,
+    "timeWeek": 796,
+    "timeMonth": 852,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2026-10-11": 436,
       "2026-10-10": 553,
@@ -52,7 +52,7 @@
       "2026-10-17": 182,
       "2026-10-19": 277,
       "2026-10-18": 258,
-      "2026-10-25": 1
+      "2026-10-25": 347
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "https://gtfy.vector.co.uz",
     "icon": "https://icons.duckduckgo.com/ip3/gtfy.vector.co.uz.ico",
     "slug": "gotify",
-    "status": "down",
-    "uptime": "90.44%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "90.44%",
-    "time": 724,
-    "timeDay": 387,
-    "timeWeek": 669,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "status": "up",
+    "uptime": "89.30%",
+    "uptimeDay": "75.92%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "89.30%",
+    "time": 721,
+    "timeDay": 459,
+    "timeWeek": 723,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2026-10-11": 436,
       "2026-10-10": 552,
@@ -98,7 +98,7 @@
       "2026-10-17": 182,
       "2026-10-19": 277,
       "2026-10-18": 258,
-      "2026-10-25": 0
+      "2026-10-25": 347
     }
   },
   {
@@ -107,14 +107,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fin.vector.co.uz.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "43.41%",
-    "uptimeDay": "62.73%",
-    "uptimeWeek": "32.75%",
-    "uptimeMonth": "43.41%",
-    "uptimeYear": "43.41%",
+    "uptime": "42.86%",
+    "uptimeDay": "38.64%",
+    "uptimeWeek": "29.83%",
+    "uptimeMonth": "42.86%",
+    "uptimeYear": "42.86%",
     "time": 2603,
     "timeDay": 2491,
-    "timeWeek": 2493,
+    "timeWeek": 2697,
     "timeMonth": 2603,
     "timeYear": 2603,
     "dailyMinutesDown": {
@@ -135,7 +135,7 @@
       "2026-10-20": 1440,
       "2026-10-23": 908,
       "2026-10-24": 393,
-      "2026-10-25": 537
+      "2026-10-25": 884
     }
   }
 ]
